@@ -5,7 +5,7 @@
 -   he model was fine-tuned on a custom insect dataset. 
 - A simple and user-friendly interface was created using Gradio, allowing users to upload insect images and instantly get predictions about the insect's class.
 
- <br><br>
+ <br>
 - **training.ipynb:** Contains the code for training the CNN (ResNet50) model on the insect image dataset.
 - **prediction.ipynb**: Used for loading the trained model and making predictions on new insect images.
 - **insects_model.keras**: This file stores the trained CNN (ResNet50) model in Keras format, including its architecture and learned weights, used for making predictions.
